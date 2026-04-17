@@ -130,7 +130,7 @@ nanochat/
 ├── pyproject.toml               # 项目配置与依赖
 └── smoltalk_samples.json        # SmolTalk 对话样本
 ```
-
+由于文件大小问题，权重文件没有上传
 ## 快速开始
 
 ### 安装依赖
