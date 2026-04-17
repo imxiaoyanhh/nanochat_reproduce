@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Large data files
+nanochat_data.zip
+nanochat_data/base_checkpoints/
+nanochat_data/chatsft_checkpoints/
+nanochat_data/base_eval/
+*.pt
+*.parquet
+*.jsonl
+
+# Training runs / logs
+runs/
+
+# Spec workflow
+.spec-workflow/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.env
+.venv/
+venv/
+
+# Wandb
+wandb/
